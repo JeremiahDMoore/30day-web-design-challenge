@@ -1,0 +1,56 @@
+<section class="hero">
+  <div class="video-hero">
+  <video class="video" loop="loop" autoplay="" muted="">
+    <source src="#" type="video/mp4" />
+    <source src="#" type="video/ogv" />
+    <source src="https://www.videvo.net/videvo_files/converted/2014_12/preview/TV_Studio_Camera_Lens_System_Close.mp466794.webm" type="video/webm" />
+  </video>
+  <div class="about-title"><a href="#">Заголовок</a></div>
+    </div>
+</section>
+
+
+body {
+  margin: 0;
+}
+/*Видео фон*/
+.hero {
+  overflow: hidden;
+}
+.video-hero {
+  padding: calc(10% + 40px) 0;
+  background: #444 url(https://c.radikal.ru/c06/1809/60/ed3ac1815a4b.png);
+  position: relative;
+}
+.about-title {
+  font-family: sans-serif;
+  font-size: 70px;
+  text-align: center;
+  position: relative;
+  opacity: 0.5;
+}
+.about-title a {
+  text-decoration: none;
+  color: #fff;
+}
+/* VIDEO */
+.video-hero .video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 0;
+  width: 100%;
+  transform: translate(-50%, -50%);
+  opacity: 0.5;
+}
+
+@media (max-width: 768px) {
+  .video-hero {
+    padding: calc(10% + 40px) 0;
+  }
+}
+@media (max-width: 480px) {
+  .about-title {
+    font-size: 40px;
+  }
+}

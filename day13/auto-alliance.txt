@@ -1,0 +1,6 @@
+day 13
+
+A B2B platform that helps car dealerships and dealers find each other and purchase cars. They work with the manufacturer, and then sell the car through a few partner dealers, which is the core part of revenue.
+
+auto truck ride buy
+Auto Alliance

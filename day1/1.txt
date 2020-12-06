@@ -1,0 +1,15 @@
+distress
+grievance
+injury
+work employer
+lawsuit claim 
+
+A company that consolidates all of the different personal injury claims you’ve filed against your employer into one easy-to-manage system.
+
+GRIEFCLAIM
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Goldman&display=swap" rel="stylesheet">
+CSS rules to specify families
+
+font-family: 'Goldman', cursive;

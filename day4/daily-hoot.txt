@@ -1,0 +1,5 @@
+day 4
+
+A startup that curates the most interesting content from around the internet for a daily digest.
+
+name= Daily Hoot

@@ -1,0 +1,10 @@
+A SaaS service that helps small businesses and churches manage their finances and bookkeeping and other accounting tasks.
+
+Wordstorm:
+
+budget funds revenue biz audit bookkeeping
+
+== "BizBook"
+
+***NOTE: ORIGINAL CSS FILE WAS OVERWRITTEN SO FONTS ARE NOT THE SAME, ZILLA SLAB AND SERIF WERE USED
+

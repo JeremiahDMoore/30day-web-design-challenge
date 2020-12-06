@@ -1,0 +1,5 @@
+day 14
+
+A platform building bots for messaging platform Slack that can automatically detect and respond to communication needs.
+
+SlackBot 9000

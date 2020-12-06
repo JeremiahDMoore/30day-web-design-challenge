@@ -1,0 +1,10 @@
+day 5
+
+A platform for outsourcing work to freelancers in the UK. The startup helps businesses and professionals find freelance workers for different jobs. The company is based in London, and has offices in Berlin and New York.
+
+
+copy:
+
+freesource scout 
+
+= scoutsource

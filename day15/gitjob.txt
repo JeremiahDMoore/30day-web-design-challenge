@@ -1,0 +1,9 @@
+day 15
+
+A tool that helps people create a profile on a job site, and then their resume gets pulled into the system.
+
+GitJob
+
+*/make full menu, cta buttons, animations
+
+\      <lottie-player src="https://assets8.lottiefiles.com/packages/lf20_atgjqorh.json" background="transparent"  speed="1"  style="width: 200px; height: 200px;" loop autoplay id="circle"></lottie-player>

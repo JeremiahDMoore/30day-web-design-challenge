@@ -1,0 +1,139 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+/* Global */
+html{
+    min-height: 100%;
+  }
+body {
+    background-color: #dedede;
+}
+.logo {
+    width: 60vw;
+    font-family: 'Source Sans Pro', sans-serif;    
+    font-size: 40px;
+    color: #fff;
+    text-align: left;
+  }
+  .title {
+      color:  rgb(61,184,255);
+      font-size: 64px;
+      animation: fadeIn ;
+      animation-delay: 5s;
+
+  }
+#nav-bar {
+    font-size: 18px;
+  }
+
+  nav {
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0 50px;
+  }
+  nav li {
+    padding-bottom: 5px;
+  }
+  header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    min-height: 75px;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #fff;
+    background-color: rgb(61,184,255,0.8);
+    z-index: 5;
+  }
+
+nav > ul {
+  width: 35vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.container {
+    font-family: 'Source Sans Pro', sans-serif;    font-size: 55px;
+    text-align: left;
+    color: #dedede;
+    position: absolute;
+    top: 15%;
+    margin-left: 5%;
+  }
+
+#banner {
+	float: left;
+	width: 100%;
+	background-color: #dedede;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: left;
+    color: #434CBC;
+}
+#banner img {
+	display: block;
+	width: 100%;
+}
+a {
+    color: #fff;
+    font-family: sans-serif;
+    text-decoration: none;
+
+  }
+  a:active {
+    color: #dedede;
+  }
+  a:hover {
+    color: yellow !important;
+  }
+  
+.right { font-family: monospace; font-size: 22px;}
+
+.fadingEffect {
+    position:absolute;
+    top:0; bottom:0; right:0;
+    width:100%;
+    background:#dedede;
+    -moz-animation: showHide 3s ease-in  ; /* Firefox */
+    -webkit-animation: showHide 3s ease-in  ; /* Safari and Chrome */
+    -ms-animation: showHide 3s ease-in  ; /* IE10 */
+    -o-animation: showHide 3s ease-in  ; /* Opera */
+    animation: showHide 3s 0.5s 1 ease-in forwards !important ;
+
+}
+@-webkit-keyframes showHide { /* Chrome, Safari */
+    0% {width:100%}
+    40% {width:0%}
+    60% {width:0%;}
+    100% {width:0%;}
+
+}
+@-moz-keyframes showHide { /* FF */
+    0% {width:100%}
+    40% {width:0%}
+    60% {width:0%;}
+    100% {width:100%;}
+}
+@-ms-keyframes showHide { /* IE10 */
+    0% {width:100%}
+    40% {width:0%}
+    60% {width:0%;}
+    100% {width:100%;}
+}
+@-o-keyframes showHide { /* Opera */
+    0% {width:100%}
+    40% {width:0%}
+    60% {width:0%;}
+    100% {width:100%;}
+}
+@keyframes showHide {
+    0% {width:100%}
+    40% {width:0%}
+    60% {width:0%;}
+    100% {width:0%;}
+
+}

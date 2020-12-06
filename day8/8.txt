@@ -1,0 +1,9 @@
+day 8
+
+The company, founded by two former Facebook engineers, is building a way to take existing and upcoming blockchains and enable them to be built and used easily across different platforms.
+
+words:
+
+faceblock 
+softchain
+unicrypt

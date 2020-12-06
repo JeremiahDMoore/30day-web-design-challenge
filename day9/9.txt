@@ -1,0 +1,7 @@
+day 9
+
+A startup that makes a monthly subscription box for people who want to learn how to code
+
+script subscription monthly nerd geek
+
+GeekScript

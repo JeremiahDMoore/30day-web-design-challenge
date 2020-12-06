@@ -1,0 +1,28 @@
+day 18
+
+
+A real estate company that helps buyers find homes in the best neighborhoods, comparing homes to similar homes in the past
+
+Best Neighbor Brokerage
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@600&family=Open+Sans&display=swap');
+
+font-family: 'Crimson Text', serif;
+font-family: 'Open Sans', sans-serif;
+
+https://assets10.lottiefiles.com/packages/lf20_VxPWXi.json
+
+
+
+
+https://assets1.lottiefiles.com/private_files/lf30_XqPmSe.json
+
+https://assets1.lottiefiles.com/private_files/lf30_xd1zUR.json
+
+https://assets1.lottiefiles.com/private_files/lf30_Avs9Pt.json
+
+https://assets1.lottiefiles.com/private_files/lf30_E5acJW.json
+
+https://assets1.lottiefiles.com/private_files/lf30_583iyE.json
+
+https://assets1.lottiefiles.com/private_files/lf30_B59yWN.json
