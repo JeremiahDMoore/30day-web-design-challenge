@@ -1,0 +1,117 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Montserrat&display=swap');
+
+html{
+    min-height: 100%;
+  }
+body {
+    background-color: #000;
+}
+.logo {
+    
+  font-family: 'Bungee', cursive;
+  font-size: 40px;
+    color: blueviolet;
+    
+}
+.item {
+
+  position: relative;
+  text-align: center;
+
+}
+ #title {
+  color: blueviolet;
+  font-size: 45px;
+      text-align: center;
+}
+#nav-bar {
+    font-size: 18px;
+  }
+
+  nav {
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0 50px;
+  }
+  nav li {
+    padding-bottom: 5px;
+  }
+  ul li img {
+    padding: 20px;
+    }
+  header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    min-height: 75px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #fff;
+    background-color: rgb(0,0,0,0.2);
+    z-index: 5;
+  }
+
+nav > ul {
+  width: 35vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.container {
+  font-family: 'Bungee', cursive;
+  text-align: left;
+    color: #020202;
+    position: absolute;
+  }
+
+#banner {
+	float: left;
+	width: 100%;
+	background-color: #fff;
+  font-family: 'Bungee', cursive;
+  text-align: left;
+
+}
+#banner img {
+	display: block;
+	width: 100%;
+}
+a {
+    color: #000;
+    font-family: sans-serif;
+    text-decoration: none;
+
+  }
+  a:active {
+    color: #000;
+  }
+  a:hover {
+    color: yellow !important;
+  }
+  
+.right { 
+  font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    width: 80%;
+    text-align: center;
+
+}
+
+
+@keyframes fade-in-move-down {
+  0% {
+    opacity: 0;
+    transform: translateY(-3rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
