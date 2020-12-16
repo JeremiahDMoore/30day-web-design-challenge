@@ -1,0 +1,7 @@
+day24
+
+The company’s goal is to create a cloud-based service that’s cheaper, more secure, and more scalable than Dropbox, Box, and other cloud storage companies.
+
+cloud city
+
+<span>Photo by <a href="https://unsplash.com/@jthendricks?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jeff Hendricks</a> on <a href="https://unsplash.com/s/photos/cloud-service?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

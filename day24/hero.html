@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cloud City</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Rubik&display=swap');
+
+body {
+  margin: 0;
+  font-family: "Rubik", sans-serif;
+  background-image: url('bg.jpg');
+  background-size: cover;
+  width: 100%;
+  height: auto;
+}
+
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #336b87;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+.sidebar a {
+  font-family: "Rubik", sans-serif;
+  font-size: 24px;
+  display: block;
+  color: #fff;
+  padding: 20px;
+  text-decoration: none;
+}
+ 
+.sidebar a.active {
+  background-color: #90afc5;
+  color: #2a3132;
+}
+
+button { font-family: 'Righteous', cursive; padding: 20px; font-size: 22px; border-radius: 18px;   color: #2a3132;
+}
+button:hover {    background-color: #336b87;
+ color: #fff;
+}
+.sidebar a:hover:not(.active) {
+  background-color: #2a3132;
+  color: white;
+}
+
+div.content {
+  margin-left: 220px;
+  padding: 1px 16px;
+  height: 1000px;
+  font-size: 22px;
+  width: 60%;
+}
+h2 { color:#2a3132; font-family: 'Righteous', cursive; font-size: 44px; letter-spacing: 2px; text-shadow: 0px 3px #90afc5;
+}
+p {font-family: 'Rubik', sans-serif; text-shadow: 0px 1px 4px #90afc5; font-size: 24px; font: outline;
+}
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 5%;}
+}
+
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="sidebar">
+  <a class="active" href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+</div>
+
+<div class="content"><br><br><br><br><br>
+  <h2>Welcome to Cloud City</h2>
+  <p>The company’s goal is to create a cloud-based service that’s cheaper, more secure, and more scalable than Dropbox, Box, and other cloud storage companies.</p><br><br>
+  <button>Get in the cloud</button>
+</div>
+
+</body>
+</html>
