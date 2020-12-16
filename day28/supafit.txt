@@ -1,0 +1,7 @@
+day 28
+
+
+
+A wearable that will track activity and sleep habits, and then report them to you on your wrist. The startup wants to create a device that can complete a full-body fitness test that can be used with other devices
+
+supafit

@@ -1,0 +1,126 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+
+* {
+    margin: 0 !important;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+@mixin drop-shadow-image {
+    img {
+        box-shadow: 0px 0px 20px 20px rgba(0, 0, 0, 0.1);
+    }
+}
+
+@mixin faded-out {
+    opacity: 0.6;
+}
+
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    overflow-x: hidden;
+    font-family: 'Fugaz One', cursive;
+    font-weight: 400;
+    font-size: normal;
+    background-color: black;
+    background-image: url('2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-weight: 400;
+    font-size: 188px;
+    text-shadow: 1px 1px 8px hotpink;
+}
+h4 { font-size: 34px; letter-spacing: 2px;        color: rgb(255, 245, 246);
+    background-color: rgb(0,0,0,0.2);
+border-radius: 24px; padding: 15px;
+    text-shadow: 2px 2px 11px black; font-family: sans-serif;}
+
+.title {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    font-family: 'Fugaz One';
+    font-size: 88px;
+    transform: translate(-50%, -50%);
+    z-index: 3;
+    color: rgb(255, 240, 240,0.8);
+}
+
+.image-grid {
+    pointer-events: none;
+    position: absolute;
+    max-width: 80%;
+    height: auto;
+    top: -5%;
+    left: -5%;
+    display: grid;
+     grid-template-columns: repeat(50, 2%);
+    grid-template-rows: repeat(50, 2%);
+
+    image-grid__item {
+        opacity: 0.5;
+        position: relative;
+        width: 30%;
+        height: auto;
+    }
+
+    img {
+        will-change: transform;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 20%;
+        height: auto;
+        object-fit: cover;
+        opacity: 0;
+    }
+}
+
+.pos-1 {
+    grid-area: 10 / 1 / 36 / 8;
+}
+
+.pos-2 {
+    grid-area: 1 / 21 / 17 / 30;
+}
+
+.pos-3 {
+    grid-area: 1 / 36 / 14 / 42;
+}
+
+.pos-4 {
+    grid-area: 10 / 10 / 32 / 17;
+}
+
+.pos-5 {
+    grid-area: 20 / 35 / 35 / 45;
+}
+
+.pos-6 {
+    grid-area: 20 / 46 / 28 / 51;
+}
+
+.pos-7 {
+    grid-area: 43 / 1 / 51 / 10;
+}
+
+.pos-8 {
+    grid-area: 38 / 14 / 51 / 19;
+}
+
+.pos-9 {
+    grid-area: 40 / 26 / 51 / 32;
+}
+
+.pos-10 {
+    grid-area: 37 / 39 / 48 / 47;
+}
