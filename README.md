@@ -10,7 +10,7 @@ For this reason, I chose not to focus on making the page responsive to fit multi
 
 All testing was done in Chrome browser on Windows 10 PCs. I tried to incorporate different things in each web page such as animations, call to action buttons, animated text, etc. so the sites did not all look the same.
 
-<a href="https://github.com/JeremiahDMoore/30day-web-design-challenge/day1/hero.html"> Day 1 </a>
+<a href="https://jeremiahdmoore.github.io/30day-web-design-challenge/day1/hero.html"> Day 1 </a>
 
 
 
