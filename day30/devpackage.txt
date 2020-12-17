@@ -1,0 +1,21 @@
+day 30
+
+A tool for people to develop, sell and deliver web content.
+
+DevPackage
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Patua+One&display=swap');
+
+
+font-family: 'Patua One', cursive;
+font-family: 'Lato', sans-serif;
+
+
+* https://lottiefiles.com/danielseiler
+
+<span>Photo by <a href="https://unsplash.com/@kyliesunglass?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kyle Sung</a> on <a href="https://unsplash.com/s/photos/developer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+
+<span>Photo by <a href="https://unsplash.com/@nubelsondev?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Nubelson Fernandes</a> on <a href="https://unsplash.com/s/photos/developer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+<span>Photo by <a href="https://unsplash.com/@ffstop?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Fotis Fotopoulos</a> on <a href="https://unsplash.com/s/photos/software?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
