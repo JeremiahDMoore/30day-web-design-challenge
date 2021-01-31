@@ -1,14 +1,14 @@
 # 30day-web-design-challenge
-30 day Web Design Challenge inspired by Flux 
+<b><h2>30 day Web Design Challenge inspired by Flux</h2></b>
 https://www.youtube.com/watch?v=OqtRn80Wzyc&t=23s
 
 The challenge involves building a hero section of a web page from scratch every day for 30 days using HTML and CSS,
 using random ideas from https://ideasai.net/ . The text on each page is copied directly from the randomized startup idea generated from the site.
-<p>**BEST VIEWED ON DESKTOP with Chrome
-I followed a STRICT 1 HOUR TIME LIMIT TO DESIGN EVERYTHING: finding font pairs, naming the site, etc. After the 1 hour is up, all work on the hero page is stopped.
+<p><b>**BEST VIEWED ON DESKTOP with Chrome</b>
+<p>I followed a STRICT 1 HOUR TIME LIMIT TO DESIGN EVERYTHING: finding font pairs, naming the site, etc. After the 1 hour is up, all work on the hero page is stopped.
 For this reason, I chose not to focus on making the page responsive to fit multiple screen sizes. Pages should be viewed in standard 16:9 format.
 
-All testing was done in Chrome browser on Windows 10 PCs. I tried to incorporate different things in each web page such as animations, call to action buttons, animated text, etc. so the sites did not all look the same.
+<p>All testing was done in Chrome browser on Windows 10 PCs. I tried to incorporate different things in each web page such as animations, call to action buttons, animated text, etc. so the sites did not all look the same.
 
 <a href="https://jeremiahdmoore.github.io/30day-web-design-challenge/day1/hero.html"> Day 1 </a><br>
 <a href="https://jeremiahdmoore.github.io/30day-web-design-challenge/day2/hero.html"> Day 2 </a><br>
