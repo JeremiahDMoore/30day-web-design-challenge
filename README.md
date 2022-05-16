@@ -6,9 +6,9 @@ The challenge involves building a hero section of a web page from scratch every 
 using random ideas from https://ideasai.net/ . The text on each page is copied directly from the randomized startup idea generated from the site.
 <p><b>**BEST VIEWED ON DESKTOP with Chrome</b>
 <p>I followed a <b>STRICT 1 HOUR TIME LIMIT TO DESIGN EVERYTHING:</b> finding font pairs, naming the site, etc. After the 1 hour is up, all work on the hero page is stopped.
-For this reason, I chose not to focus on making the page responsive to fit multiple screen sizes. Pages should be viewed in standard 16:9 format.
+For this reason, I chose not to focus on making the page responsive to fit multiple screen sizes. Pages should be viewed in standard 16:9 format on Chrome. 
 
-<p>All testing was done in Chrome browser on Windows 10 PCs. I tried to incorporate different things in each web page such as animations, call to action buttons, animated text, etc. so the sites did not all look the same.
+<p>This challenge really helped me get used to writing basic HTML CSS from memory, I felt so much more comfortable after 30 days in a row.
 
 <a href="https://jeremiahdmoore.github.io/30day-web-design-challenge/day1/hero.html"> Day 1 </a><br>
 <a href="https://jeremiahdmoore.github.io/30day-web-design-challenge/day2/hero.html"> Day 2 </a><br>
